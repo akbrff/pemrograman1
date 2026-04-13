@@ -11,7 +11,7 @@ Setiap file dalam repositori ini mewakili modul atau pertemuan tertentu selama m
     * `P3_...`: Latihan Pertemuan 3.
     * `P4_...`: Latihan Pertemuan 4 & Tugas Mandiri.
     * `P5_...`: Latihan Pertemuan 5.
-    * `P6_...`: Latihan Pertemuan 3.
+    * `P6_...`: Latihan Pertemuan 6.
 
 ## 🚀 Teknologi yang Digunakan
 * **Bahasa Pemrograman**: Java
